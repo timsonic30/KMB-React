@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+.station {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.StationName {
+  border: 1px solid red;
+}
+
+.StationName:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.label {
+  text-decoration: underline;
+}
+
+.eta {
+  border: 1px solid red;
+  margin: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
