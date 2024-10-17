@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KMB-React/static/css/main.32a68dea.css",
+    "main.js": "/KMB-React/static/js/main.3049fda9.js",
+    "index.html": "/KMB-React/index.html",
+    "main.32a68dea.css.map": "/KMB-React/static/css/main.32a68dea.css.map",
+    "main.3049fda9.js.map": "/KMB-React/static/js/main.3049fda9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a68dea.css",
+    "static/js/main.3049fda9.js"
+  ]
+}
